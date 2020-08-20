@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-#define XXX __asm__("nop");
+#define DDD __asm__("nop");
 
 int main() {
     DDD;
