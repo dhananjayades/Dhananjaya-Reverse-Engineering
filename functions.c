@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-#define XXX __asm__("nop");
+#define DDD __asm__("nop");
 
 // function without parameter and return value
 void fun1() {
